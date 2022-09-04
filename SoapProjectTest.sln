@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inbound getRwo Soap Project", "SoapProjectTest\Inbound getRwo Soap Project.csproj", "{4504F0A7-8134-498E-B4A5-035DC52AF34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outbound Math Soap Service", "Outbound Math Soap Service\Outbound Math Soap Service.csproj", "{0B401046-D112-46D3-A723-ED1E32317CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4504F0A7-8134-498E-B4A5-035DC52AF34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4504F0A7-8134-498E-B4A5-035DC52AF34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4504F0A7-8134-498E-B4A5-035DC52AF34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4504F0A7-8134-498E-B4A5-035DC52AF34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B401046-D112-46D3-A723-ED1E32317CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B401046-D112-46D3-A723-ED1E32317CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B401046-D112-46D3-A723-ED1E32317CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B401046-D112-46D3-A723-ED1E32317CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

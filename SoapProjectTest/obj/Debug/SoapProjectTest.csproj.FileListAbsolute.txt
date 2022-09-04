@@ -1,0 +1,5 @@
+d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.dll
+d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.pdb
+d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.dll
+d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.pdb
