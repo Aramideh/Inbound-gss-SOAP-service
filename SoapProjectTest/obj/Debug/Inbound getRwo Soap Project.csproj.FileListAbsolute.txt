@@ -1,7 +1,7 @@
-d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.dll
-d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.pdb
-d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.dll
-d:\documents\visual studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.pdb
 D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.dll.config
+D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.dll
+D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\bin\SoapProjectTest.pdb
 D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\Inbound getRwo Soap Project.csproj.AssemblyReference.cache
 D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\Inbound getRwo Soap Project.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.dll
+D:\Documents\Visual Studio 2012\Projects\SoapProjectTest\SoapProjectTest\obj\Debug\SoapProjectTest.pdb

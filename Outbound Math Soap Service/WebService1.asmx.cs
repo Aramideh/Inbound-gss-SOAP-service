@@ -39,5 +39,6 @@ namespace Outbound_Math_Soap_Service
             return Convert.ToSingle(A / B);
         }
 
+
     }
 }
